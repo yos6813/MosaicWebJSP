@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "Server.context-parameters.logEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'Server.context-parameters.logEnabled'"
+  },
+  {
+    "name": "Server.context-parameters.debugLevel",
+    "type": "java.lang.String",
+    "description": "A description for 'Server.context-parameters.debugLevel'"
+  }
+]}
