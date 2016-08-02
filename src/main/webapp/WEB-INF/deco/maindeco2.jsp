@@ -8,17 +8,17 @@
 <title>maindeco2.jsp <sitemesh:write property="title" /></title>
 <style type="text/css">
 	hr{
-		border-color: salmon;
+		border-color: pink;
 	}
 	*{
 		text-align: center;
-		color: steelblue;
+		color: navy;
 	}
 	.a{
-		background-color: skyblue;
+		background-color: silver;
 	}
 	.b{
-		background-color: pink;
+		background-color: teal;
 	}
 </style>
 </head>
@@ -28,9 +28,7 @@
 TOP<br>
 <hr>
 </div>
-
 <sitemesh:write property="body" />
-
 <div class="b">
 <hr>
 BOTTOM<br>
