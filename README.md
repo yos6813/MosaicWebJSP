@@ -113,7 +113,13 @@
 		* compile group: 'org.sitemesh', name: 'sitemesh', version: '3.0.1'
 	- builder.addDecoratorPath("/deco", "/WEB-INF/deco/maindeco.jsp");
 		
-
+11. Spring Security 설정
+	
+	- mvnrepository.com >> search : spring boot security, spring security taglibs
+	- build.gradle dependencies에 추가 
+		* compile group: 'org.springframework.boot', name: 'spring-boot-starter-security', 		version: '1.3.6.RELEASE'
+		* compile group: 'org.springframework.security', name: 'spring-security-taglibs', version: '4.0.4.RELEASE'
+		
 	
 	
 	
